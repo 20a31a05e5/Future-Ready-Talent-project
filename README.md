@@ -1,4 +1,4 @@
-This is a web-based application developed for Crop Rotation and Recommendation For Flowers.
+This is a web-based application developed for Crop Rotation and Recommendation For Flowers :smiley:
 
 Crop Rotation and Recommendation System For Flowers website has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft , Future Skills Prime, GitHub and EY
 
