@@ -41,6 +41,22 @@ Azure Language Service
 Azure Static Web Apps
 
 Screenshots -
+![Screenshot (277)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/82085cd8-31bd-44b2-86bb-1557230f6912)
 ![Screenshot (278)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/63f21905-357e-4288-a9c9-e5c91ff38cc0)
+![Screenshot (279)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/b5323cf2-a9e0-4d1d-afa9-7f73a4d94c74)
+![Screenshot (280)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/32e7cd29-201f-4939-bff2-6614ebf3b61d)
+![Screenshot (281)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/d7855594-a844-4302-8805-e60b8555fb9e)
+![Screenshot (282)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/e614d90a-2ad2-4f86-bc21-f335b33fc733)
+![Screenshot (283)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/ecc1964b-e4bd-46ad-b0c2-ec2f5511e5be)
+![Screenshot (284)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/e64a63e1-90fa-4a23-8eaa-baef3c49db5b)
+![Screenshot (285)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/afb7756d-ddfd-45c5-ad7f-9a930d6dd318)
+![Screenshot (286)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/fed1e32a-6964-4a2e-8690-4557388ef578)
+![Screenshot (287)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/b7a52f63-2379-495a-8910-cd2dbef5b1d3)
+![Screenshot (288)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/07470d93-32c4-4492-953f-8e7073d26d4c)
+![Screenshot (289)](https://github.com/20a31a05e5/Future-Ready-Talent-project/assets/109792835/266b95f4-1cf3-4173-b620-53f746eee79d)
+
+
+
+
 
 
