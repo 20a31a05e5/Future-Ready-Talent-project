@@ -38,6 +38,7 @@ CSS
 JavaScript
 
 ## Azure Services -
+Azure Bot Service
 Azure Language Service
 Azure Static Web Apps
 
