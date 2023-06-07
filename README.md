@@ -4,7 +4,7 @@ This is a web-based application developed for Crop Rotation and Recommendation F
 Crop Rotation and Recommendation System For Flowers website has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft , Future Skills Prime, GitHub and EY
 
 **Project Link - https://black-bay-00d2ad300.3.azurestaticapps.net
-**Project Demo Video Link - https://youtu.be/yJwmeOzr8Qk
+**Project Demo Video Link - https://drive.google.com/file/d/1nvE6SxrUJMnyEnkNPnkKvDBMmZjTewNH/view?usp=sharing
 
 
 ## :sparkles: Crop Rotation and Recommendation System for flowers Website :sparkles:
